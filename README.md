@@ -1,6 +1,6 @@
 # Halfwaze
 
-> Find activites for you and your friend half way between your locations!
+> Find activities for you and your friend half way between your locations!
 
 ## Team
 
