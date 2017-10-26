@@ -74,4 +74,4 @@ mongod
 
 ## Technology Stack
 
-![](images/techstack.png?raw=true)
+![](images/techstack.jpg?raw=true)
