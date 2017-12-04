@@ -319,6 +319,7 @@ img.listing-object {
     display: flex;
     justify-content: space-around;
     flex-direction: column;
+    font-family: Raleway;
 }
 
 .registerForm {
