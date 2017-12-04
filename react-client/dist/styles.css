@@ -319,7 +319,6 @@ img.listing-object {
     display: flex;
     justify-content: space-around;
     flex-direction: column;
-    font-family: Raleway;
 }
 
 .registerForm {
@@ -421,6 +420,7 @@ img.listing-object {
 }
 
 .loginCard {
+    font-family: Raleway;
     border-radius: 5px;
     background-color: rgba(245, 248, 255, .85);
     height: 300px;
